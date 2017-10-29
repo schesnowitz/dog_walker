@@ -1,8 +1,6 @@
 # DogWalker
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/dog_walker`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Steve is back with another great Gem!  From the creator of "Dish Washer" comes another awesome Gem to make your life easier.  Created using the latest AI and GPS tracking, Dog Walker is ready to walk.
 
 ## Installation
 
@@ -21,9 +19,14 @@ Or install it yourself as:
     $ gem install dog_walker
 
 ## Usage
-
-TODO: Write usage instructions here
-
+Simply run
+```ruby
+dog_name = DogWalker::Dog.new
+```
+Then have DogWalker call your dog to start waling.
+```ruby
+dog_name.walk_the_dog
+```
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
