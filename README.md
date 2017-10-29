@@ -19,7 +19,9 @@ Or install it yourself as:
     $ gem install dog_walker
 
 ## Usage
-Simply run
+1. Start up your terminal
+2. require 'dog_walker'
+Then simply run
 ```ruby
 dog_name = DogWalker::Dog.new
 ```
