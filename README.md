@@ -1,6 +1,6 @@
 # DogWalker
 
-Steve is back with another great Gem!  From the creator of "Dish Washer" comes another awesome Gem to make your life easier.  Created using the latest AI and GPS tracking, Dog Walker is ready to walk.
+Steve Chesnowitz is back with another great Gem!  From the creator of "Dish Washer" comes another awesome Gem to make your life easier.  Created using the latest AI and GPS tracking, Dog Walker is ready to walk.
 
 ## Installation
 
@@ -37,7 +37,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/dog_walker. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/schesnowitz/dog_walker. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
