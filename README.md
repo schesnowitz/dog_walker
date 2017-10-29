@@ -25,7 +25,7 @@ Then simply run
 ```ruby
 dog_name = DogWalker::Dog.new
 ```
-Then have DogWalker call your dog to start waling.
+Then have DogWalker call your dog to start walking.
 ```ruby
 dog_name.walk_the_dog
 ```
