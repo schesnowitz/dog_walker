@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Dog Walker.}
   spec.description   = %q{Dog Walker}
-  spec.homepage      = "https://github.com/schesnowitz/dog_walker."
+  spec.homepage      = "https://github.com/schesnowitz/dog_walker"
   spec.license       = "MIT"
 
 
