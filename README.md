@@ -1,6 +1,6 @@
 # DogWalker
 
-Steve Chesnowitz is back with another great Gem!  From the creator of "Dish Washer" comes another awesome Gem to make your life easier.  Created using the latest AI and GPS tracking, Dog Walker is ready to walk.
+Steve Chesnowitz is back with another great Gem!  From the creator of "Hair Cutter" comes another awesome Gem to make your life easier.  Created using the latest AI and GPS tracking, Dog Walker is ready to walk.
 
 ## Installation
 
@@ -45,4 +45,4 @@ The gem is available as open source under the terms of the [MIT License](http://
 
 ## Code of Conduct
 
-Everyone interacting in the DogWalker project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/dog_walker/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the DogWalker project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/schesnowitz/dog_walker/blob/master/CODE_OF_CONDUCT.md).
